@@ -30,6 +30,7 @@
 | `04_stdlib/` | 标准库：文件 IO、json、csv、pathlib |
 | `05_venv_pip/` | 虚拟环境与依赖管理笔记 |
 | `projects/` | 小项目 |
+| `计算机作业/` | 课程作业练习 |
 
 ## 01_basics 练习清单
 
