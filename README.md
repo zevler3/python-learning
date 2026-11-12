@@ -13,7 +13,7 @@
 
 - [x] 环境搭建：Python + Git + 虚拟环境
 - [x] 基础语法：变量、类型、控制流
-- [ ] 数据结构：list / dict / set / tuple
+- [x] 数据结构：list / dict / set / tuple
 - [ ] 函数与作用域
 - [ ] 面向对象
 - [ ] 文件与异常
@@ -30,6 +30,15 @@
 | `04_stdlib/` | 标准库：文件 IO、json、csv、pathlib |
 | `05_venv_pip/` | 虚拟环境与依赖管理笔记 |
 | `projects/` | 小项目 |
+
+## 01_basics 练习清单
+
+| 文件 | 内容 |
+|---|---|
+| `01_hello.py` | 环境验证 |
+| `02_types.py` | 变量、类型、f-string、类型转换 |
+| `03_control.py` | if / for / while、break、FizzBuzz、乘法表 |
+| `04_containers.py` | list / dict / set / tuple、切片、解包 |
 
 ## 踩坑记录
 
