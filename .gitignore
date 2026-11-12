@@ -1,0 +1,48 @@
+# ===== 虚拟环境 =====
+.venv/
+venv/
+env/
+ENV/
+
+# ===== Python 缓存 =====
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===== 打包 / 安装产物 =====
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ===== 测试与类型检查 =====
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+htmlcov/
+.coverage
+coverage.xml
+
+# ===== 密钥与本地配置 =====
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+config.local.py
+
+# ===== 数据与输出 =====
+*.sqlite3
+*.db
+logs/
+output/
+
+# ===== 编辑器 / 系统 =====
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,4 @@
+# 学习期依赖（按需添加后执行 pip install -r requirements.txt）
+# 生成当前环境快照：pip freeze > requirements.txt
+
+pytest>=8.0
