@@ -24,22 +24,13 @@
 
 | 目录 | 内容 |
 |---|---|
-| `01_basics/` | 基础语法练习 |
-| `02_functions/` | 函数、作用域、参数 |
-| `03_oop/` | 类与对象 |
-| `04_stdlib/` | 标准库：文件 IO、json、csv、pathlib |
-| `05_venv_pip/` | 虚拟环境与依赖管理笔记 |
+| `Python-learning/01_basics` | 基础语法练习 |
+| `Python-learning/02_functions` | 函数、作用域、参数 |
+| `Python-learning/03_oop` | 类与对象 |
+| `Python-learning/04_stdlib` | 标准库：文件 IO、json、csv、pathlib |
+| `Python-learning/05_venv_pip` | 虚拟环境与依赖管理笔记 |
 | `projects/` | 小项目 |
 | `计算机作业/` | 课程作业练习 |
-
-## 01_basics 练习清单
-
-| 文件 | 内容 |
-|---|---|
-| `01_hello.py` | 环境验证 |
-| `02_types.py` | 变量、类型、f-string、类型转换 |
-| `03_control.py` | if / for / while、break、FizzBuzz、乘法表 |
-| `04_containers.py` | list / dict / set / tuple、切片、解包 |
 
 ## 踩坑记录
 
@@ -51,7 +42,7 @@
 ## 如何运行
 
 ```powershell
-python 01_basics/01_hello.py
+python "Python-learning/01_basics/你的练习.py"
 ```
 
 ## 如何重建环境
