@@ -1,4 +1,4 @@
-name=input('请输入您的名字：')
+name=input('请输入您的名字：')#完整的语法格式：variable=input('提示文字')
 print('我的名字是：'+name)
 num=input('请输入您的幸运数字：')
 print("您的幸运数字是"+num)#此时“num”是字符串，需要用“+”连接
